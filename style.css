@@ -5,7 +5,7 @@
 
 body{
     background-color: hsl(217, 54%, 11%);
-    padding: 20px 0;
+    padding: 60px 0;
 }
 
 main{
@@ -72,6 +72,10 @@ p{
 .img-2{
     padding: 20px 0;
     width: 10%;
+}
+
+strong{
+    color: #fff;
 }
 
 strong:hover{
